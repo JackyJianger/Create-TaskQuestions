@@ -53,7 +53,7 @@ Using the list identified in the List section of your Personalized Project Refer
 - Write your responses to this question only on the designated pages in the separate Written Response booklet.
 - If there are multiple parts to this question, write the part letter with your response.
 
----
+iterate through each element and then run the function for each element. If it returns false in any of the iterations, return false and break the function. 
 
 ### End of Exam
 
